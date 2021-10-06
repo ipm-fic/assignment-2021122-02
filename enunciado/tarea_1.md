@@ -74,4 +74,4 @@ siguiente tabla:
 > autoevalues tu trabajo sobre un _clone_ de ese repositorio.
 
 
-<a href="{{page.url|baseUrl}}tarea_2" class="button big">Siguiente: Tarea 2</a>
+<a href="{{page.url|baseUrl}}tarea_2" class="paper-btn">Siguiente: Tarea 2</a>

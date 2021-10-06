@@ -2,9 +2,9 @@
 layout: generic
 title: "Tarea 4: Internacionalización"
 banner:
-  src: "img/pexels-thisisengineering-3861958.jpg"
-  copy_url: "https://www.pexels.com/es-es/foto/mujer-codificacion-en-computadora-3861958/"
-  copy: "ThisIsEngineering"
+  src: "img/pexels-porapak-apichodilok-346885.jpg"
+  copy_url: "https://www.pexels.com/es-es/foto/persona-sosteniendo-globo-terraqueo-mirando-hacia-la-montana-346885/"
+  copy: "Porapak Apichodilok"
 ---
 
 En esta tarea tienes internacionalizar y localizar la aplicación que

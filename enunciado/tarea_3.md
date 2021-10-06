@@ -2,9 +2,9 @@
 layout: generic
 title: "Tarea 3: Diseño sw e implementación del segundo caso de uso"
 banner:
-  src: "img/pexels-thisisengineering-3861958.jpg"
-  copy_url: "https://www.pexels.com/es-es/foto/mujer-codificacion-en-computadora-3861958/"
-  copy: "ThisIsEngineering"
+  src: "img/pexels-andrew-neel-6633920.jpg"
+  copy_url: "https://www.pexels.com/es-es/foto/apple-iphone-escritorio-ordenador-portatil-6633920/"
+  copy: "Andrew Neel"
 ---
 
 En esta tarea tienes que realizar la parte central del desarrollo
@@ -91,4 +91,4 @@ tablas de las tareas anteriores y la siguiente tabla:
 > autoevalues tu trabajo sobre un _clone_ de ese repositorio.
 
 
-<a href="{{page.url|baseUrl}}tarea_4" class="button big">Siguiente: Tarea 4</a>
+<a href="{{page.url|baseUrl}}tarea_4" class="paper-btn">Siguiente: Tarea 4</a>

@@ -189,4 +189,4 @@ información: nombre, apellidos, uuid de su entrada en la BD.
 > los eventos en sí mismos, sólo se guardan los registros de entrada y
 > salida.
 
-<a href="{{page.url|baseUrl}}tarea_1" class="button big">Siguiente: Tarea 1</a>
+<a href="{{page.url|baseUrl}}tarea_1" class="paper-btn">Siguiente: Tarea 1</a>

@@ -116,4 +116,4 @@ documentación del api.
 
 > N.B.: El servidor es el mismo que utilizaste en la práctica anterior.
   
-<a href="{{page.url|baseUrl}}tarea_3" class="button big">Siguiente: Tarea 3</a>
+<a href="{{page.url|baseUrl}}tarea_3" class="paper-btn">Siguiente: Tarea 3</a>

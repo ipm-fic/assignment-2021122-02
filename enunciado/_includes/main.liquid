@@ -16,6 +16,9 @@
   <!-- workaround para no modificar paper.css -->
   <style>
   li > p:first-child { display: inline; }
+
+  nav a { border: 0; }
+  .nav-brand img { border: 0; height: 1em; }
   </style>
 </head>
 
@@ -26,25 +29,33 @@
 <div class="paper">
   <!-- Main -->
   <div class="paper container margin-bottom-large">
-    <div class="inner">
+    <nav class="border">
+      <div class="nav-brand">
+        <h3>
+          <a href="{{site.subject_url}}"><img src="{{page.url|baseUrl}}img/logo.png"/></a></li>
+        </h3>
+      </div>
+      <div class="collapsible-body">
+        <ul class="inline">
+          <li>
+            <a href="/"><strong>{{site.subject}}</strong> {{site.name}}</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+    <!-- Header -->
+    <header id="header">
       
-      <!-- Header -->
-      <header id="header">
-	<a href="/" class="logo"><strong>{{site.subject}}</strong> {{site.name}}</a>
-	<ul class="icons">
-	  <li><a href="{{site.subject_url}}" class="icon brands"><img src="{{page.url|baseUrl}}img/logo.png"/></a></li>
-	</ul>
-      </header>
+    </header>
 
 
-      {{ content }}
+    {{ content }}
 
-      <!-- Footer -->
-      <footer id="footer">
-        <p class="copyright">&copy; David Cabrero. All rights reserved. Images: <a href="{{banner.copy_url}}">{{banner.copy}}</a>. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
-      </footer>
+    <!-- Footer -->
+    <footer id="footer">
+      <p>&copy; David Cabrero. All rights reserved. Images: <a href="{{banner.copy_url}}">{{banner.copy}}</a>. CSS: <a href="https://www.getpapercss.com/">Paper CSS</a>.</p>
+    </footer>
 
-    </div>
   </div>
 </div>
 
