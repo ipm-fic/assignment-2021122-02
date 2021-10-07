@@ -44,4 +44,4 @@ El enunciado de la práctica se encuentra en el directorio
 partir de los fuentes con la herramienta
 [eleventy](https://www.11ty.dev/), pero también se incluye una versión
 ya _construida_ en el directorio [`docs`](docs/index.html), y se puede consultar
-en [github pages](https://ipm-fic.github.io/assignment-202122-02/).
+en [github pages](https://ipm-fic.github.io/assignment-2021122-02/).
